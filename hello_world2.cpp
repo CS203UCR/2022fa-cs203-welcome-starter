@@ -5,6 +5,6 @@ int main(int argc, char *argv[])
 	std::ofstream ofs ("hello.txt", std::ofstream::out);
 	ofs << "Hello CS203!\n";
 	ofs.close();
-	cout << "Execution Complete" << endl;
+	std::cout << "Execution Complete" << std::endl;
 	return 0;  
 }

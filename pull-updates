@@ -3,6 +3,6 @@
 echo "======= SAVE YOUR NOTEBOOK (then press 'return') =========="
 read
 
-cp Lab.ipynb Lab.backup.ipynb
+cp Assignment.ipynb Assignment.backup.ipynb
 git commit -am "My progress so far."
 git pull --no-edit upstream main -X ours
