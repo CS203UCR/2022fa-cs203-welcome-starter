@@ -10,7 +10,7 @@ STUDENT_EDITABLE_FILES=hello_world2.cpp
 
 COMPILER=$(CXX) 
 MICROBENCH_OPTIMIZE= -DHAVE_LINUX_PERF_EVENT_H -I$(PWD) -g 
-LIBS= -lboost_system -lm -pthread 
+LIBS= -lm -pthread 
 BUILD=./build/
 
 $(BUILD)perfstats.o: perfstats.c perfstats.h
