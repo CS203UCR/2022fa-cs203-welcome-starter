@@ -7,9 +7,9 @@ import nbformat
 import click
 from collections import namedtuple
 
-from IPython.core.display import HTML
-styles = open("./styles/custom.css", "r").read()
-display(HTML('<style>' + styles + '</style>'))
+#from IPython.core.display import HTML
+#styles = open("./styles/custom.css", "r").read()
+#display(HTML('<style>' + styles + '</style>'))
 #def css_styling():
 #css_styling()
 
