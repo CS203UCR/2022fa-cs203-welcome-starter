@@ -1,6 +1,6 @@
-# How to Excel with Integrity in CSE 1411 
+# How to Excel with Integrity in CS 203 
 
-At UCSD, academic integrity[1] means that you have the courage, even when
+At UCR, academic integrity[1] means that you have the courage, even when
 it is difficult, to only submit academic work that is honest,
 responsible, respectful, fair, and trustworthy. When you excel with
 integrity in computer science, it means that you:
@@ -92,7 +92,8 @@ question, and receiving an 'F' for the course._
 For more information on academic integrity, including how you can
 excel with integrity, as well as information on sanctioning guidelines
 for cheating, visit the Academic Integrity Office website at:
-http://academicintegrity.ucsd.edu
+[https://conduct.ucr.edu/policies/academic-integrity-policies-and-procedures](https://conduct.ucr.edu/policies/academic-i
+ntegrity-policies-and-procedures)
 
 # Confirmation of Agreement to Excel with Integrity
 
@@ -101,7 +102,7 @@ following statement below: "I Excel with Integrity."
 
 Type it here: [ I Excel with Integrity. ]
 
-By submitting this file, I, [ Zefeng Xue ], a student enrolled in
+By submitting this file, I, [ your name ], a student enrolled in
 CSE141L affirm the principle of academic integrity and commit to excel
 with integrity by completing all academic assignments in the manner
 expected as described above, informing the instructor of suspected
@@ -111,7 +112,7 @@ the class and its related assignments for the purpose of learning.
 To electronically sign this document, Enter your full name, date, and
 student ID below:
 
-[ Zefeng Xue ] / [ 1/12/2020 ] / [ A14766403 ]
+[ your name ] / [ date ] / [ id ]
 
 [1]: This document was written in part by Rick Ord, CSE Lecturer and Dr. Bertram Gallant, Director of the UCSD Academic Integrity Office.
 
