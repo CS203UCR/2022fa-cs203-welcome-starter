@@ -32,18 +32,18 @@ https://hub.cs.ucr.edu/
 
 One of two things will happen:
 
-1. You'll find yourself at a nice home page and you can click the big golden "Log In" button. 
+1. You'll find yourself at a nice home page and you can click the big orange "Log In" button. 
 
 2. If you've used the system before/recently it might drop you directly into a jupyter notebook file browser.
 
 If you it's #2, you will need to click "Control Panel" (upper right) and then
 click the big red "Stop My Server" button, if it's there.  If it's not, that's
 fine.  Then click "Logout" (upper right) to get back to the homepage and the
-big golden button.
+big orange button.
 
-Now, click the big golden button and login with your `@ucsd.edu` email address.
+Now, click the big orange button and login with your `@ucr.edu` email address.
 You'll be presented with a list of Course Environments to choose from.  Select
-the one for `CSE 142L [FA21]`.
+the one for `CS 203`.
 
 After a progress bar, you'll end up at the Jupyter Notebook file browser.
 Looking at an empty directory (unless you've used the Datahub before, in which
@@ -56,7 +56,7 @@ your lab notebook.
 
 ### Important Note
 
-Datahub tries to keep your session alive, so if you navigate away and then come
+Jupyterhub tries to keep your session alive, so if you navigate away and then come
 back later, your notebook will still be there and it will initially seem to be
 working, but then commands in the notebook will start failing and complaining
 about "stale file handles". If this happens, you need to go to "control panel"
@@ -72,13 +72,13 @@ This will set you up with a copy of the starter repository.
 **Note**: Be sure to use the **`ssh`** method to checkout your repo rather than `http`.  Authentication over ssh is much simpler and it's what our tools assume.  If you try to use HTTP, you'll get something like:
 
 ```
-sjswanson@dsmlp-jupyter-sjswanson:~/tt$ git clone http://github.com/NVSL/CSE141pp-Assignment-Common.git
-Cloning into 'CSE141pp-Assignment-Common'...
-Username for 'https://github.com': stevenjswanson
-Password for 'https://stevenjswanson@github.com':
-remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
-remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-fatal: Authentication failed for 'https://github.com/NVSL/CSE141pp-Assignment-Common.git/'
+[htseng@ti-02 tools]$ git clone https://github.com/CS203UCR/2022fa-cs203-welcome-hungweitseng.git
+Cloning into '2022fa-cs203-welcome-hungweitseng'...
+Username for 'https://github.com': hungweitseng
+Password for 'https://hungweitseng@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/CS203UCR/2022fa-cs203-welcome-hungweitseng.git/'
 ```
 ![clone with ssh](images/clone-with-ssh.png)
 
