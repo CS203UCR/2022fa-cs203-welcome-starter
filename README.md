@@ -20,7 +20,7 @@ The content for each lab will be distributed via github classroom.
 
 So, to do the assignment of this course, you need:
 1. You'll have to setup and connect to UCR VPN before you can start. 
-2. You'll need to log into https://datahub.escalab.org:8000 to run a jupyter notebook. 
+2. You'll need to log into https://escalab.org/datahub to run a jupyter notebook. 
 3. Tha asssignment from github classroom.  Find the link on the course 
 home page: https://www.escalab.org/classes/cs203-2022fa/
 
@@ -30,7 +30,7 @@ The first step is to setup and connect to UCR VPN (no matter where you're)
 https://ucrsupport.service-now.com/ucr_portal/?id=kb_article&sys_id=8a264d791b5f0c149c0b844fdd4bcb34
 
 Once you are connected to UCR VPN, navigate your browser to 
-https://datahub.escalab.org:8000
+https://escalab.org/datahub
 
 One of two things will happen:
 
