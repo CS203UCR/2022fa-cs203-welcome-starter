@@ -19,9 +19,8 @@ displaying data (among other things).
 The content for each lab will be distributed via github classroom.
 
 So, to do the assignment of this course, you need:
-1. You'll have to setup and connect to UCR VPN before you can start. 
-2. You'll need to log into https://escalab.org/datahub to run a jupyter notebook. 
-3. Tha asssignment from github classroom.  Find the link on the course 
+1. You'll need to log into https://escalab.org/datahub to run a jupyter notebook. 
+2. Tha asssignment from github classroom.  Find the link on the course 
 home page: https://www.escalab.org/classes/cs203-2022fa/
 
 ## Connecting to CS203 jupyterhub 
@@ -82,8 +81,6 @@ fatal: Authentication failed for 'https://github.com/CS203UCR/2022fa-cs203-welco
 
 You'll need to open a terminal from jupyterhub.  From the file browser, lect "new->terminal" from the menu in the upper right.
 At the resulting Linux prompt, you can `git clone` the repo locally.
-
-![Log into datahub](images/open-terminal-short.gif)
 
 
 You may need to create an ssh key and add it to your github account.  You can create the key with (in your jupyterhub terminal):
