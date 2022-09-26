@@ -76,7 +76,6 @@ remote: Support for password authentication was removed on August 13, 2021.
 remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
 fatal: Authentication failed for 'https://github.com/CS203UCR/2022fa-cs203-welcome-hungweitseng.git/'
 ```
-![clone with ssh](images/clone-with-ssh.png)
 
 
 You'll need to open a terminal from jupyterhub.  From the file browser, lect "new->terminal" from the menu in the upper right.
