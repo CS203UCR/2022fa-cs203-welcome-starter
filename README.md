@@ -26,10 +26,7 @@ home page: https://www.escalab.org/classes/cs203-2022fa/
 
 ## Connecting to CS203 jupyterhub 
 
-The first step is to setup and connect to UCR VPN (no matter where you're)
-https://ucrsupport.service-now.com/ucr_portal/?id=kb_article&sys_id=8a264d791b5f0c149c0b844fdd4bcb34
-
-Once you are connected to UCR VPN, navigate your browser to 
+The first step is to navigate your browser to 
 https://escalab.org/datahub
 
 One of two things will happen:
@@ -44,8 +41,6 @@ fine.  Then click "Logout" (upper right) to get back to the homepage and the
 big orange button.
 
 Now, click the big orange button and login with your `@ucr.edu` email address.
-You'll be presented with a list of Course Environments to choose from.  Select
-the one for `CS 203`.
 
 After a progress bar, you'll end up at the Jupyter Notebook file browser.
 Looking at an empty directory (unless you've used the Datahub before, in which
