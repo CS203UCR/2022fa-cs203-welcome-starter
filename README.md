@@ -19,17 +19,13 @@ displaying data (among other things).
 The content for each lab will be distributed via github classroom.
 
 So, to do the assignment of this course, you need:
-1. You'll have to setup and connect to UCR VPN before you can start. 
-2. You'll need to log into https://escalab.org/datahub to run a jupyter notebook. 
-3. Tha asssignment from github classroom.  Find the link on the course 
+1. You'll need to log into https://escalab.org/datahub to run a jupyter notebook. 
+2. Tha asssignment from github classroom.  Find the link on the course 
 home page: https://www.escalab.org/classes/cs203-2022fa/
 
 ## Connecting to CS203 jupyterhub 
 
-The first step is to setup and connect to UCR VPN (no matter where you're)
-https://ucrsupport.service-now.com/ucr_portal/?id=kb_article&sys_id=8a264d791b5f0c149c0b844fdd4bcb34
-
-Once you are connected to UCR VPN, navigate your browser to 
+The first step is to navigate your browser to 
 https://escalab.org/datahub
 
 One of two things will happen:
@@ -44,8 +40,6 @@ fine.  Then click "Logout" (upper right) to get back to the homepage and the
 big orange button.
 
 Now, click the big orange button and login with your `@ucr.edu` email address.
-You'll be presented with a list of Course Environments to choose from.  Select
-the one for `CS 203`.
 
 After a progress bar, you'll end up at the Jupyter Notebook file browser.
 Looking at an empty directory (unless you've used the Datahub before, in which
@@ -82,13 +76,10 @@ remote: Support for password authentication was removed on August 13, 2021.
 remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
 fatal: Authentication failed for 'https://github.com/CS203UCR/2022fa-cs203-welcome-hungweitseng.git/'
 ```
-![clone with ssh](images/clone-with-ssh.png)
 
 
 You'll need to open a terminal from jupyterhub.  From the file browser, lect "new->terminal" from the menu in the upper right.
 At the resulting Linux prompt, you can `git clone` the repo locally.
-
-![Log into datahub](images/open-terminal-short.gif)
 
 
 You may need to create an ssh key and add it to your github account.  You can create the key with (in your jupyterhub terminal):
